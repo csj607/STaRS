@@ -9,7 +9,7 @@ The information of the photon packet include wavelength, position, and polarizat
 
 The based langauge and compiler are FORTRAN and intel FORTRAN.
 I adopted parallel computing and shared memory technique for fast calculating and handling a memory.
-If you have any question about the code, you send the email to csj607@gmail.com
+If you have any question about the code, you send the email to "csj607@gmail.com".
 Any comments for development and suggestions for collaboration are well come.
 Now, I am preparing the paper for STaRS.
 

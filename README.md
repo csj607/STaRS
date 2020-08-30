@@ -14,12 +14,19 @@ Any comments for development and suggestions for collaboration are well come.
 Now, I am preparing the paper for STaRS.
 
 Source files
+
 main.f90 : the main code to run STaRS
+
 RT_grid.f90 : the module to set the scattering geometry
+
 RT_photon.f90 : the module to generate the initial photons and describe the scattering process of photon. 
+
 RT_obs.f90 : the module to collect the information of escaping photon.
+
 RT_cross.f90 : the module to compute the scattering cross section and braching ratio by atomic physic.
+
 random_mt.f90 : the module including the random generator
+
 memory_mod.f90 : the module for the shared memory technique.
 
 HOW TO USE THE CODE

@@ -7,14 +7,15 @@ STaRS is the code for Radiative Transfer through Raman and Rayleigh Scattering w
 This code is 3D grid based Monte Carlo simulation tracing each generating photon packet.
 The information of the photon packet include wavelength, position, and polarization.
 
-The based langauge and compiler are FORTRAN and intel FORTRAN.
+The basic langauge and compiler are FORTRAN and intel FORTRAN.
 I adopted parallel computing and shared memory technique for fast calculating and handling a memory.
 If you have any question about the code, you send the email to "csj607@gmail.com".
 Any comments for development and suggestions for collaboration are well come.
 Now, I am preparing the paper for STaRS.
 
-
-
+We submitted the paper about STaRS to PASP.
+The title is "3D Grid-Based Monte Carlo Code for Radiative Transfer through Raman and Rayleigh Scattering
+with Atomic Hydrogen --- STaRS".
 
 Source files
 

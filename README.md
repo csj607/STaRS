@@ -11,11 +11,16 @@ The basic langauge and compiler are FORTRAN and intel FORTRAN.
 I adopted parallel computing and shared memory technique for fast calculating and handling a memory.
 If you have any question about the code, you send the email to "csj607@gmail.com".
 Any comments for development and suggestions for collaboration are well come.
-Now, I am preparing the paper for STaRS.
 
-We submitted the paper about STaRS to PASP.
+The paper for STaRS is accepted for publication in JKAS.
+The link for the manuscript in astro-ph
+https://arxiv.org/abs/2012.03424
 The title is "3D Grid-Based Monte Carlo Code for Radiative Transfer through Raman and Rayleigh Scattering
 with Atomic Hydrogen --- STaRS".
+
+Publication List using STaRS
+Bo-Eun Choi, Hee-Won Lee, 2020, ApJL, 903, L39, Discovery of Raman-scattered He II λ6545 in the Planetary Nebulae NGC 6886 and NGC 6881
+Bo-Eun Choi, Seok-Jun Chang, Ho-Gyu Lee, and Hee-Won Lee, 2020, ApJ, 899, 12C, Line Formation of Raman-scattered He II λ 4851 in an Expanding Spherical H I Shell in Young Planetary Nebulae
 
 Source files
 

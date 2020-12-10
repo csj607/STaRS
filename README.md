@@ -13,8 +13,9 @@ If you have any question about the code, you send the email to "csj607@gmail.com
 Any comments for development and suggestions for collaboration are well come.
 
 The paper for STaRS is accepted for publication in JKAS.
-The link for the manuscript in astro-ph
+The link for the manuscript in astro-ph,
 https://arxiv.org/abs/2012.03424
+
 The title is "3D Grid-Based Monte Carlo Code for Radiative Transfer through Raman and Rayleigh Scattering
 with Atomic Hydrogen --- STaRS".
 
